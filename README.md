@@ -25,3 +25,12 @@ python -m pip install -r requirements.txt
 ```powershell
 python -m pytest
 ```
+
+Cloner le dépôt puis entrer dans le dossier :
+
+```powershell
+git clone https://github.com/KAsmae4/projet-ds.git
+cd projet-ds
+```
+
+Créer et activer l’environnement, puis installer les dépendances :
